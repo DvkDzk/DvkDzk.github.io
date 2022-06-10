@@ -73,7 +73,7 @@
 
 .esquerda{
     width: 410px;
-    margin-left: 80px;
+    margin-left: 140px;
     margin-right: 80px;
     text-align: center;
     justify-content: center;
@@ -100,12 +100,96 @@
 
 .miniartigo{
     margin-top: 100px;
-    background-color: aquamarine;
+    width: 100%;
+    display: flex;
 }
 
 .textomini{
     display: flex;
-    background-color: blueviolet;
-    width: 1000px;
-    height: 300px;
+    width: 100%;
+}
+
+.esquerdinha1{
+    margin-left: 95px;
+}
+
+.esquerdinha2{
+    margin-left: 258px;
+}
+
+.esquerdinha3{
+    margin-left: 307px;
+}
+
+.rodrigin{
+    margin-left: 95px;
+    margin-right: 95px;
+    width: 430px;
+    height: 220px;
+}
+
+.rodrigin img{
+    width: 430px;
+    height: 220px;
+}
+
+.rodrigin h6{
+    font-size: 16px;
+}
+
+.rodrigin p{
+    background-color: rgb(173, 78, 0);
+    color: white;
+    width: 110px;
+    border-color: rgb(173, 78, 0);
+    border-radius: 35px;
+    padding: 20px;
+}
+
+.guardarodrigo{
+    display: flex;
+}
+
+.corartigo{
+    background-color: #f2f2f2;
+    height: 590px;
+    padding-top: 100px;
+}
+
+.linkfim{
+    width: 100%;
+    background-color: black;
+    height: 350px;
+    display: flex;
+}
+
+.linkfim h3{
+    color: white;
+}
+
+.test{
+    display: flex;
+}
+
+.linkfim li{
+    width: 500px;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    font-size: 18px;
+    color: lightgray;
+}
+
+.bordabaixo{
+    border-bottom: 1px solid lightgray;
+}
+
+.linkfim ul{
+    list-style: none;
+    width: 500px;
+    margin-top: 80px;
+    margin-right: 120px;
+}
+
+.l1{
+    margin-left: 100px;
 }
