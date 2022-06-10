@@ -5,7 +5,6 @@
 }
 
 .entrada{
-    background-color:aquamarine;
     display: flex;
     background-image: url(images/banner.jpg);
     width: 100%;
