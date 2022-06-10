@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:calibri;
+}
+
+.flexcontainer{
+    display: flex;
+    list-style: none;
+    top: 70px;
+    font-size: 20px;
+}
+
+.item{
+    margin-right: 40px;
+    color: grey;
+    text-align: center;
+    display: inline;
+    cursor: pointer;
+    top: 100px;
+}
+
+.icons{
+    right: 0px;
+    position: absolute;
+    top: 40px;
+}
+
+.menu{
+    top: 59px;
+    left: 300px;
+    position: absolute;
+    width: auto;
+}
+
+.cefet{
+    border-right: 1px solid gray;
+    padding-top: 19px;
+    top:40px;
+    padding-bottom: 19px;
+    padding-right: 49px;
+    width: auto;
+    left: 70px;
+    color: gray;
+    text-align: center;
+    display: inline;
+    cursor: pointer;
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+}
+
+.separa{
+    background-color: white;
+    width: 100%;
+    height: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 38px;
+    border-bottom: 1px solid gray;
+    border-top: 2px solid black;
+
+}
+
+.item2{
+    border-left: 1px solid gray;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 0;
+    padding-top: 19px;
+    padding-bottom: 19px;
+}
+
+.raposa{
+    clip-path: polygon(49% 3%, 94% 27%, 94% 74%, 49% 96%, 5% 73%, 5% 28%);
+    width: 70px;
+    height: 70px;
+}
+
+.esquerda{
+    display: flex;
+    flex-direction: column;
+    margin-left: 256px;
+    margin-right: 1230px;
+    margin-top: 95px;
+    height: 2450px;
+}
+
+.cefetraposa{
+    margin-top: 10px;
+    font-size: 35px;
+}
+
+.another{
+    margin-top: 10px;
+}
+
+.foto1{
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid gray;
+}
+
+.texto1foto1{
+    margin-top: 30px;
+    margin-left: 12px;
+    margin-top: 20px;
+}
+
+.texto2foto1{
+    margin-left: 12px;
+}
+
+.mineicone1{
+    clip-path: circle(50% at 50% 50%);
+    width: 40px;
+    height: 40px;
+    margin-left: 310px;
+    margin-top: -70px;
+}
+
+.primeiro{
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.foto2{
+    margin-top: 20px;
+}
+
+.textominiplayer{
+    font-size: 13px;
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: -30px;
+}
+
+.minimagem{
+    margin-bottom: -30px;
+}
+
+.noticiapequena{
+    margin-top: 25px;
+    padding-top: 25px;
+    border-top: 1px solid gray;
+    padding-bottom: 40px;
+}
+
+.textogrande{
+    font-size: 13px;
+    margin-left: 70px;
+    margin-top: -25px;
+}
+
+.masum{
+    border-bottom: 1px solid gray;
+}
+
+.about{
+    padding-top: 20px;
+    margin-top: 20px;
+    padding-bottom: 50px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.textoabout{
+    margin-top: 25px;
+}
+
+.rodrigin{
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 13px;
+    padding: 17px 28px;
+    width: 85px;
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.redes{
+    display: flex;
+    text-align: center;
+    width: 35px;
+    list-style: none;
+    margin-top: 10px;
+}
+
+.eita{
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.direita{
+    display: flex;
+    flex-direction: column;
+    margin-left: 700px;
+    margin-right: 256px;
+    margin-top: -2450px;
+    height: 3000px;
+    width: 1040px;
+}
+
+.imagemgrande{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.titulo{
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+.subtitulo{
+    margin-top: 13px;
+    margin-left: 45px;
+}
+
+.textoreportagem1{
+    margin-top: -560px;
+    margin-left: 20px;
+}
+
+.textoreportagem2{
+    margin-top: 20px;
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.mineicone2{
+    clip-path: circle(50% at 50% 50%);
+    margin-left: 120px;
+    width: 35px;
+    height: 35px;
+    margin-top: -70px;
+    margin-bottom: 8px;
+}
+
+.textomain{
+    margin-top: 50px;
+    width: 840px;
+    margin-left: 100px;
+    font-size: 19px;
+}
+
+.rodrigin2{
+    margin-left: 110px;
+    margin-top: 35px;
+    font-size: 13px;
+    padding: 17px 28px;
+    width: 120px;
+    border: 1px solid gray;
+    font-size: 12px;
+    text-align: center;
+}
+
+.fundo{
+    margin-top: 440px;
+    margin-left: 740px;
+    height: 170px;
+    border-left: 1px solid gray;
+    padding-left: 40px;
+}
+
+.caixa{
+    margin-top: 0px;
+    padding-bottom: 100px;
+    border: 1px solid gray;
+}
+
+.iconenoticia{
+    text-align: center;
+    display: inline;
+    font-size: 10px;
+    width: 100px;
+    line-height: 5px;
+    margin-left: 400px;
+}
+
+.espaco{
+    margin-top: 60px;
+}
+
+.pagina{
+    display: inline-flex;
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.borda{
+    margin-top: 0;
+    padding-top: 8px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.npage{
+    margin-left: 100px;
+}
+
+.search{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 350px;
+}
