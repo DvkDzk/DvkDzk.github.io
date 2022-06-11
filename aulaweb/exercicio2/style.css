@@ -1,0 +1,32 @@
+
+.amarelo{
+    background-color: yellow;
+}
+
+.fundo{
+    background-color: lightgray;
+    width: 300px;
+    height: 250px;
+}
+
+.fundo td{
+    color: orangered;
+}
+
+.titulo{
+    margin-left: -160px;
+    margin-bottom: 30px;
+    color: red;
+    font-size: 24px;
+}
+
+.fundodentro{
+    background-color: white;
+}
+
+.imagem{
+    width: 100px;
+    height: 40px;
+    margin-left: 180px;
+    margin-bottom: -40px;
+}
